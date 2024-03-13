@@ -1,4 +1,4 @@
-# Email Management System
+# 📧 Email Management System
 
 ## Description
 
